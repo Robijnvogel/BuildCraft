@@ -35,7 +35,7 @@ public abstract class AdvancedSlot {
 	}
 
 	public String getDescription() {
-		return null;
+		return "";
 	}
 
 	public final void drawTooltip(GuiAdvancedInterface gui, int x, int y) {
